@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(233, 205, 225);
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+header{
+    width: 100%;
+    background-color: plum;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    border: 2px solid yellow;
+    font-size: 18px;
+
+}
+
+.a{
+    float: left;
+    border-radius: 20%;
+}
+.b{
+    color: rgb(255, 0, 0);
+}
+.c{
+    padding-top: 1000px;
+}
